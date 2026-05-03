@@ -1,0 +1,5 @@
+python: 6
+sql: 5
+excel: 3
+ml: 2
+statistics: 1
